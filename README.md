@@ -1,0 +1,2 @@
+# streamlit_football_data
+TTCデータサイエンス+AI科卒業研究R、サッカーデータサイエンスWebAppの開発
